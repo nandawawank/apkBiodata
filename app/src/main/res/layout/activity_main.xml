@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.nandawk.apkbiodata.MainActivity">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="My Biodata"
+            android:textSize="40dp"
+            android:layout_marginTop="20dp"
+            />
+        <TextView
+            android:gravity="center"
+            android:text="Nama : Nanda Wawan Kurniawan"
+            android:textSize="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="80dp"
+            />
+        <TextView
+            android:gravity="center"
+            android:text="Tempat Lahir : Jakarta"
+            android:textSize="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="110dp"
+            />
+        <TextView
+            android:gravity="center"
+            android:text="Tanggal Lahir : 08 Juni 1996"
+            android:textSize="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="140dp"
+            />
+        <TextView
+            android:gravity="center"
+            android:text="Agama : Islam"
+            android:textSize="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="170dp"
+            />
+        <TextView
+            android:gravity="center"
+            android:text="Status : Loading"
+            android:textSize="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="200dp"
+            />
+        <TextView
+            android:gravity="center"
+            android:text="Pekerjaan : Mahasiswa"
+            android:textSize="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="230dp"
+            />
+        <TextView
+            android:gravity="center"
+            android:text="Hobi : Game, Musik dan Ngoding"
+            android:textSize="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="260dp"
+            />
+        <TextView
+            android:gravity="center"
+            android:text="Hobi : Game, Musik dan Ngoding"
+            android:textSize="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="290dp"
+            />
+        <TextView
+            android:gravity="center"
+            android:text="Hobi : Game, Musik dan Ngoding"
+            android:textSize="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="320dp"
+            />
+        <TextView
+            android:gravity="center"
+            android:text="Hobi : Game, Musik dan Ngoding"
+            android:textSize="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="350dp"
+            />
+        <TextView
+            android:gravity="center"
+            android:text="Hobi : Game, Musik dan Ngoding"
+            android:textSize="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="380dp"
+            />
+        <TextView
+            android:gravity="center"
+            android:text="Hobi : Game, Musik dan Ngoding"
+            android:textSize="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="410dp"
+            />
+        <TextView
+            android:gravity="center"
+            android:text="Hobi : Game, Musik dan Ngoding"
+            android:textSize="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="440dp"
+            />
+        <TextView
+            android:gravity="center"
+            android:text="Hobi : Game, Musik dan Ngoding"
+            android:textSize="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="470dp"
+            />
+        <TextView
+            android:gravity="center"
+            android:text="Hobi : Game, Musik dan Ngoding"
+            android:textSize="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="500dp"
+            />
+        <TextView
+            android:gravity="center"
+            android:text="Hobi : Game, Musik dan Ngoding"
+            android:textSize="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="530dp"
+            />
+
+    </RelativeLayout>
+
+
+
+</ScrollView>
