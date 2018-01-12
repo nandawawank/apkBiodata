@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/nandawk/AndroidStudioProjects/apkBiodata/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/home/nandawk/AndroidStudioProjects/apkBiodata/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/nandawk/AndroidStudioProjects/apkBiodata/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/nandawk/AndroidStudioProjects/apkBiodata/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/nandawk/AndroidStudioProjects/apkBiodata/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/nandawk/AndroidStudioProjects/apkBiodata/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /home/nandawk/AndroidStudioProjects/apkBiodata/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nandawk/AndroidStudioProjects/apkBiodata/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/nandawk/AndroidStudioProjects/apkBiodata/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nandawk/AndroidStudioProjects/apkBiodata/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/nandawk/AndroidStudioProjects/apkBiodata/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/nandawk/AndroidStudioProjects/apkBiodata/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nandawk/AndroidStudioProjects/apkBiodata/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/nandawk/AndroidStudioProjects/apkBiodata/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/nandawk/.android/build-cache/b310ce99bf5bb23dfc25f522f06dd73faf778867/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/nandawk/.android/build-cache/33d9f19589b22a816e26b86b8e472aa33c62386a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/nandawk/.android/build-cache/2fae5332d68ed084e54de9869cfe7331e30c41ed/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/nandawk/.android/build-cache/152009927184db8b75f08c2d87641179c414c91d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/nandawk/.android/build-cache/831850188dc2e2490e68ffbab4561eb38c86b93c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/nandawk/.android/build-cache/d8fcaf487512093b69a49dd949633343baefffc1/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/nandawk/.android/build-cache/08f045a113d6ee4018b6dacf93a7e044b4160e31/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/nandawk/.android/build-cache/f450841a8b7d801ade1855eca1905e7fb313f79a/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/nandawk/.android/build-cache/41a8823c2ffd14fdb1e2b1ebd00f85dda110e476/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/nandawk/.android/build-cache/e86e9e982685190d0766a260d46764f2be90d395/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/nandawk/AndroidStudioProjects/apkBiodata/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /home/nandawk/AndroidStudioProjects/apkBiodata/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /home/nandawk/AndroidStudioProjects/apkBiodata/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /home/nandawk/AndroidStudioProjects/apkBiodata/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /home/nandawk/AndroidStudioProjects/apkBiodata/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /home/nandawk/AndroidStudioProjects/apkBiodata/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.nandawk.apkbiodata.MainActivity
+ADDED from /home/nandawk/AndroidStudioProjects/apkBiodata/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/nandawk/AndroidStudioProjects/apkBiodata/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/nandawk/AndroidStudioProjects/apkBiodata/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/nandawk/AndroidStudioProjects/apkBiodata/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/nandawk/AndroidStudioProjects/apkBiodata/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/nandawk/AndroidStudioProjects/apkBiodata/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/nandawk/AndroidStudioProjects/apkBiodata/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/nandawk/AndroidStudioProjects/apkBiodata/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/nandawk/.android/build-cache/b310ce99bf5bb23dfc25f522f06dd73faf778867/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/nandawk/.android/build-cache/33d9f19589b22a816e26b86b8e472aa33c62386a/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/nandawk/.android/build-cache/2fae5332d68ed084e54de9869cfe7331e30c41ed/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/nandawk/.android/build-cache/152009927184db8b75f08c2d87641179c414c91d/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/nandawk/.android/build-cache/831850188dc2e2490e68ffbab4561eb38c86b93c/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/nandawk/.android/build-cache/d8fcaf487512093b69a49dd949633343baefffc1/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/nandawk/.android/build-cache/08f045a113d6ee4018b6dacf93a7e044b4160e31/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/nandawk/.android/build-cache/f450841a8b7d801ade1855eca1905e7fb313f79a/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/nandawk/.android/build-cache/41a8823c2ffd14fdb1e2b1ebd00f85dda110e476/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/nandawk/.android/build-cache/e86e9e982685190d0766a260d46764f2be90d395/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/nandawk/.android/build-cache/b310ce99bf5bb23dfc25f522f06dd73faf778867/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/nandawk/AndroidStudioProjects/apkBiodata/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nandawk/AndroidStudioProjects/apkBiodata/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/nandawk/AndroidStudioProjects/apkBiodata/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nandawk/AndroidStudioProjects/apkBiodata/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/nandawk/.android/build-cache/b310ce99bf5bb23dfc25f522f06dd73faf778867/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/nandawk/.android/build-cache/33d9f19589b22a816e26b86b8e472aa33c62386a/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/nandawk/.android/build-cache/2fae5332d68ed084e54de9869cfe7331e30c41ed/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/nandawk/.android/build-cache/152009927184db8b75f08c2d87641179c414c91d/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/nandawk/.android/build-cache/831850188dc2e2490e68ffbab4561eb38c86b93c/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/nandawk/.android/build-cache/d8fcaf487512093b69a49dd949633343baefffc1/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/nandawk/.android/build-cache/08f045a113d6ee4018b6dacf93a7e044b4160e31/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/nandawk/.android/build-cache/f450841a8b7d801ade1855eca1905e7fb313f79a/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/nandawk/.android/build-cache/41a8823c2ffd14fdb1e2b1ebd00f85dda110e476/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/nandawk/.android/build-cache/b310ce99bf5bb23dfc25f522f06dd73faf778867/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/nandawk/.android/build-cache/b310ce99bf5bb23dfc25f522f06dd73faf778867/output/AndroidManifest.xml:26:9-47
